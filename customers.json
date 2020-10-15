@@ -1,0 +1,9 @@
+{
+    "took" : "12345.321",
+    "code" : "200",
+    "message" : "Response seccessfully",
+    "data" : [ {
+        "rel" : "self",
+        "href" : "http://localhost/webservice/productjson.php"
+    } ]
+}
